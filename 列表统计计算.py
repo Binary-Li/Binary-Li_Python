@@ -5,3 +5,5 @@ print(min(digital))  #输出列表中最小值
 print(max(digital))   #输出列表中最大值
 
 print(sum(digital))    #输出列表中值和
+
+#11111111
